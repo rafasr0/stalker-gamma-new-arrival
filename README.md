@@ -17,7 +17,7 @@ Roleplay Spawns:
 - Loners: Locked to Rookie Village. You're a civilian, leaving your past behind to seek a new life in the Zone.
 - Bandits: Locked to Dark Valley. You are a fugitive fleeing the law. Smuggled into the Zone by a criminal contact, you must now work for Sultan to pay off your heavy debt.
 
-All other faction starts are disabled to enforce the scenario and starting with them defaults to Loner start.
+Note on Faction Selection: You can click any faction in the menu (Army, Merc, etc.), but the mod will automatically convert you to a Loner (or Bandit if selected) a few seconds after you wake up in the Zone. This ensures the roleplay scenario remains intact.
 
 Installation:
 
