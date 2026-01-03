@@ -1,25 +1,22 @@
-# stalker-gamma-new-arrival
-"A hardcore roleplay start mod for S.T.A.L.K.E.R. GAMMA."
+"You aren't a hero. You are a rookie, a disgrace, or a debtor. You have no map, no gun, and no reputation. Do you have what it takes to survive the climb?"
 
-"You aren't a soldier. You aren't a mercenary. You are just a civilian who slipped through the perimeter under the cover of darkness, praying the military patrols wouldn't spot you. You came in search of riches and a fresh start—now you just have to survive. Do you have what it takes to become a legend in the zone?"
-
-This mod creates a hardcore roleplay starting scenario for players who want a true "Zero to Hero" experience.
+This mod creates a hardcore roleplay starting scenario for players who want a true "Zero to Hero" experience. But not as punishing as the Black Road start.
 It strips away the safety net of the standard loadouts and gives you the bare minimum.
 
 Key Features:
-- Civilian Loadout: You start with nothing but a knife, a flashlight, the clothes on your back, and basic supplies. No guns, no military gear—only items easily available outside the Zone.
-- Blind Start (No PDA): You spawn without a PDA. You cannot see the map, tasks, or messages until you scavenge enough money to buy one.
-- Pocket Change: You start with only 500 Rubles—barely enough for a loaf of bread, let alone gear.
-- Terrifying Night: You hopped the fence while the military patrols were changing shifts. The game forces a 23:00 (11 PM) start time.
+Zero to Hero Loadout: No matter who you join, you start with nothing but a knife, a flashlight, and the clothes on your back. No guns, no military gear. And barely any supplies for your first day.
+Blind Start(No PDA): You spawn without a PDA. You cannot see the map, tasks, or messages until you scavenge enough money to buy one.
+No Money, No Problem: Each faction now has a set amount of starting money.
+Terrifying Night: The game forces a 23:00 (11 PM) start time.
+Scripted Roleplay Objectives: A new script triggers a lore-friendly introduction and "Win Condition" message when you start.
 
-
-Roleplay Spawns:
-- Loners: Locked to Rookie Village. You're a civilian, leaving your past behind to seek a new life in the Zone.
-- Bandits: Locked to Dark Valley. You are a fugitive fleeing the law. Smuggled into the Zone by a criminal contact, you must now work for Sultan to pay off your heavy debt.
-
-Note on Faction Selection: You can click any faction in the menu (Army, Merc, etc.), but the mod will automatically convert you to a Loner (or Bandit if selected) a few seconds after you wake up in the Zone. This ensures the roleplay scenario remains intact.
 
 Installation:
 
-1. Install as a standard mod in MO2.
-2. Start a New Game -> Select Loner or Bandit.
+Install as a standard mod in MO2.
+Start a New Game.
+
+Hotfix v1.1:
+Loadout Unification: Updated all other factions, beside Bandits, configurations to inherit the Loner loadout.
+
+Update v2.0 - The Faction Update: Previous versions locked you to Loner/Bandit. Now, all factions are playable with their own unique "Zero to Hero" origins. Every faction now has a reason to start with nothing and a fluff win condition suggestion.
