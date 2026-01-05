@@ -20,3 +20,5 @@ Hotfix v1.1:
 Loadout Unification: Updated all other factions, beside Bandits, configurations to inherit the Loner loadout.
 
 Update v2.0 - The Faction Update: Previous versions locked you to Loner/Bandit. Now, all factions are playable with their own unique "Zero to Hero" origins. Every faction now has a reason to start with nothing and a fluff win condition suggestion.
+
+Uptade v2.1 - Fixed the naming convention of starting locations, added a new universal starting location for every faction.
